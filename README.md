@@ -8,4 +8,3 @@ This software allows you to overlay windows, adjust their opacity, move them, di
 
 **Nwibuzz™ and all related titles and logos are trademarks of FODSOFT™, NSTUDIOS GAMES™. Néo Foderé de Frutos. All rights reserved.**
 **© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
-![](logo_fodsoft.png)
