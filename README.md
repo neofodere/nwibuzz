@@ -1,4 +1,4 @@
-![](logo_nwibuzz.png)
+![](logo_nwibuzz_dual.png)
 Window management software developed by Néo Foderé de Frutos, under the name FODSOFT™.
 [Itch page](https://fodsoft.itch.io/nwibuzz)
 # Description
