@@ -1,5 +1,5 @@
 ![](logo_nwibuzz_dual.png)<br>
-Window management software developed by Néo Foderé de Frutos, under the name FODSOFT™.
+Window management software developed by Néo Foderé de Frutos, under the brand FODSOFT™.
 [Itch page](https://fodsoft.itch.io/nwibuzz)
 # Description
 Nwibuzz™ is a window management software for Microsoft® Windows® developed by Néo Foderé de Frutos, under the brand FODSOFT™.
