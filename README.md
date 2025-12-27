@@ -3,8 +3,7 @@
 
 
 ## 📖 Description
-Nwibuzz™ is a window‑management tool for Microsoft® Windows®, developed by Néo Foderé de Frutos under the FODSOFT™ brand.
-It enhances your workspace by allowing you to adjust window opacity, keep selected windows always on top, disable interaction to click through them, reposition elements, and perform many other advanced operations. These features are designed to improve focus, streamline workflow, and offer a more flexible and efficient desktop experience.
+Nwibuzz™ is an advanced window‑management tool for Microsoft® Windows®, developed by Néo Foderé de Frutos under the FODSOFT™ brand. It lets you adjust window opacity, keep selected windows always on top, disable interaction so you can click through them, reposition elements with precision, and access a wide range of features designed to streamline your workflow. Its purpose is to give you a more flexible, efficient, and personalized desktop experience.
 
 ## 💻 Nwibuzz™ Console (Command‑line version)
 <img src="images/logo_nwibuzz_console.png" style="width: 600px; height: auto;">
