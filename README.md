@@ -8,7 +8,7 @@ It enhances your workspace by allowing you to adjust window opacity, keep select
 
 ## 💻 Nwibuzz™ Console (Command‑line version)
 <img src="images/logo_nwibuzz_console.png" style="width: 600px; height: auto;">
-Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for users who prefer working directly with command‑line tools. You can download Nwibuzz™ Console independently, or launch it from the Nwibuzz™ interface via `System → Launch Nwibuzz™ Console`.
+Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for users who prefer working directly with command‑line tools. You can download Nwibuzz™ Console independently, or launch it from the Nwibuzz™ interface via `System -> Launch Nwibuzz™ Console`.
 
 **Nwibuzz™ and all related titles and logos are trademarks of FODSOFT™. Néo Foderé de Frutos. All rights reserved.<br>
 © 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
