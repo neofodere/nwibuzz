@@ -1,5 +1,5 @@
 # Nwibuzz™
-![](images/logo_nwibuzz_dual.png)
+![](images/logo_nwibuzz.png)
 
 ## 📖 Description
 Nwibuzz™ is a window‑management tool for Microsoft® Windows®, developed by Néo Foderé de Frutos under the FODSOFT™ brand.
