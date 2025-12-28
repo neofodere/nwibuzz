@@ -12,8 +12,8 @@ Nwibuzz™ is an advanced window‑management tool for Microsoft® Windows®, de
 Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for users who prefer working directly with command‑line tools. You can download Nwibuzz™ Console independently, or launch it from the Nwibuzz™ interface via `System -> Launch Nwibuzz™ Console`.
 
 ## ⌨️ Commands
->[IMPORTANT]
->💡 The commands are the same regardless of the language.
+> [!IMPORTANT]
+> 💡 The commands are the same regardless of the language.
 
 | Command                     | Action                                                        |
 |-----------------------------|---------------------------------------------------------------|
