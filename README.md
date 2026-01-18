@@ -1,5 +1,5 @@
-# Nwibuzz™
-<img src="images/logo_nwibuzz.png" style="width: 600px; height: auto;">
+# <img src="images/icono_nwibuzz_console.png" width="32" height="auto"> Nwibuzz™
+<img src="images/logo_nwibuzz.png" width="600" height="auto">
 
 
 ## 📖 Description
