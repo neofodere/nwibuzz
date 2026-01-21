@@ -1,4 +1,4 @@
-# <img src="images/icono_nwibuzz.png" width="64" height="auto"> Nwibuzz™
+# <img src="https://resources.fodsoft.com/images/png/icono_nwibuzz.png" width="64" height="auto"> Nwibuzz™
 <img src="images/logo_nwibuzz.png" width="600" height="auto">
 
 
