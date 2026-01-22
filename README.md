@@ -1,11 +1,11 @@
-# <img src="https://resources.fodsoft.com/images/png/icono_nwibuzz.png" width="48" height="auto"> Nwibuzz™
-<img src="https://resources.fodsoft.com/images/png/logo_nwibuzz.png" width="512" height="auto">
+# <img src="https://resources.fodsoft.com/images/ext/icono_nwibuzz.png" width="48" height="auto"> Nwibuzz™
+<img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz.png" width="512" height="auto">
 
 ## 📖 Description
 Nwibuzz™ is an advanced window‑management tool for Microsoft® Windows®, developed by Néo Foderé de Frutos under the FODSOFT™ brand. It lets you adjust window opacity, keep selected windows always on top, disable interaction so you can click through them, reposition elements with precision, and access a wide range of features designed to streamline your workflow. Its purpose is to give you a more flexible, efficient, and personalized desktop experience.
 
-# <img src="https://resources.fodsoft.com/images/png/icono_nwibuzz_console.png" width="48" height="auto"> Nwibuzz™ Console (Command‑line version)
-<img src="https://resources.fodsoft.com/images/png/logo_nwibuzz_console.png" width="512" height="auto">
+# <img src="https://resources.fodsoft.com/images/ext/icono_nwibuzz_console.png" width="48" height="auto"> Nwibuzz™ Console (Command‑line version)
+<img src="https://resources.fodsoft.com/images/ext/logo_nwibuzz_console.png" width="512" height="auto">
 
 ## 📖 Description
 Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for users who prefer working directly with command‑line tools. You can download Nwibuzz™ Console independently, or launch it from the Nwibuzz™ interface via `System -> Launch Nwibuzz™ Console`.
