@@ -31,6 +31,7 @@ Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for use
 | lang en/es/fr               | Changes the program language                                 |
 | exit                        | Closes the program                                           |
 | help                        | Shows the help message                                       |
+
 &nbsp;
 <br>
 
