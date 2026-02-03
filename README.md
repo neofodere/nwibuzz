@@ -32,6 +32,7 @@ Nwibuzz™ Console is the same as Nwibuzz™ but without a GUI, designed for use
 | exit                        | Closes the program                                           |
 | help                        | Shows the help message                                       |
 
+
 <br>
 
 **Nwibuzz™ and all related titles and logos are trademarks of FODSOFT™. Néo Foderé de Frutos. All rights reserved.<br>
